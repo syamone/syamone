@@ -7,7 +7,7 @@
     <config target="dialog" index="0" count="5" limit="2"/>
     <config target="carousel" index="0" count="10000" limit="10"/>
     <config target="sidebar" index="0" count="3" limit="10"/>
-    <config target="wall" index="0"/>
+    <config target="wall" index="0"/> 
 
     <gift id="1">
         <title>Bubble Pop</title>
