@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<giftList>
+
+    <config target="rate" index="0" count="5" limit="5"/>
+    <config target="interstitial" index="0" count="3" limit="2"/>
+    <config target="list" index="0" count="5" limit="10"/>
+    <config target="dialog" index="0" count="5" limit="2"/>
+    <config target="carousel" index="0" count="10000" limit="10"/>
+    <config target="sidebar" index="0" count="3" limit="10"/>
+    <config target="wall" index="0"/>
+
+    <gift id="1">
+        <title>Bubble Pop</title>
+        <detailed>Tap the bubbles, explode, get the highest score!</detailed>
+        <icon_imagePath>icons/bubble_pop.png</icon_imagePath>
+        <packageName>one.syam.bubblepop.pop</packageName>
+        <posterPath>posters/bubble_pop.png</posterPath>
+        <marketUrl>market://details?id=one.syam.bubblepop.pop</marketUrl>
+    </gift>
+    <gift id="2">
+        <title>Wood Block Puzzle</title>
+        <detailed>Easy and fun game</detailed>
+        <icon_imagePath>icons/wood_block.png</icon_imagePath>
+        <packageName>one.syam.blockpuzzle.oo</packageName>
+        <posterPath>posters/wood_block.png</posterPath>
+        <marketUrl>market://details?id=one.syam.blockpuzzle.oo</marketUrl>
+    </gift>
+    <gift id="3">
+        <title>Classic Block Puzzle</title>
+        <detailed>Relaxing game to sharpen the brain</detailed>
+        <icon_imagePath>icons/classic_block.png</icon_imagePath>
+        <packageName>one.syam.blockpuzzle.ii</packageName>
+        <posterPath>posters/classic_block.png</posterPath>
+        <marketUrl>market://details?id=one.syam.blockpuzzle.ii</marketUrl>
+    </gift>
+    <gift id="4">
+        <title>Bubble Shooter</title>
+        <detailed>Aiming and shoot!</detailed>
+        <icon_imagePath>icons/bubble_shooter.png</icon_imagePath>
+        <packageName>one.syam.bubbleshooter.bubblegamelegend</packageName>
+        <posterPath>posters/bubble_shooter.png</posterPath>
+        <marketUrl>market://details?id=one.syam.bubbleshooter.bubblegamelegend</marketUrl>
+    </gift>
+</giftList>
