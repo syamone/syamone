@@ -7,7 +7,7 @@
     <config target="dialog" index="0" count="5" limit="2"/>
     <config target="carousel" index="0" count="10000" limit="10"/>
     <config target="sidebar" index="0" count="3" limit="10"/>
-    <config target="wall" index="0"/> 
+    <config target="wall" index="0"/>
 
     <gift id="1">
         <title>Bubble Pop</title>
@@ -34,11 +34,19 @@
         <marketUrl>market://details?id=one.syam.blockpuzzle.ii</marketUrl>
     </gift>
     <gift id="4">
-        <title>Bubble Shooter</title>
+        <title>Bubble Shooter 2023</title>
         <detailed>Aiming and shoot!</detailed>
         <icon_imagePath>icons/bubble_shooter.png</icon_imagePath>
         <packageName>one.syam.bubbleshooter.bubblegamelegend</packageName>
         <posterPath>posters/bubble_shooter.png</posterPath>
         <marketUrl>market://details?id=one.syam.bubbleshooter.bubblegamelegend</marketUrl>
+    </gift>
+    <gift id="5">
+        <title>Match Tile 2023</title>
+        <detailed>Destroy all the tiles to become a powerful smasher</detailed>
+        <icon_imagePath>icons/tile_match.png</icon_imagePath>
+        <packageName>one.syam.match.tile.fun.match</packageName>
+        <posterPath>posters/tile_match.png</posterPath>
+        <marketUrl>market://one.syam.match.tile.fun.match</marketUrl>
     </gift>
 </giftList>
