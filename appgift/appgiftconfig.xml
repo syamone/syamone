@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<giftconfig>
+	<updateinfo>
+		<cur_ver>213</cur_ver>
+		<Interval>1</Interval>
+		<Interval_h>12</Interval_h>
+		<SubInterval>1</SubInterval>
+		<dialog_style>0</dialog_style>
+		<reopen_dialog_interval>40000</reopen_dialog_interval>
+		<max_click_count>3</max_click_count>
+		<ad_num classify="music" extra="3" main="5" />
+        <ad_num classify="video" extra="2" main="3" />
+        <ad_num classify="browser" extra="2" main="3" />
+        <ad_num classify="gallery" extra="1" main="2" />
+		<ad_num classify="camera" extra="2" main="2" />
+		<ad_num classify="weather" extra="4" main="3" />
+		<ad_num classify="notes" extra="2" main="3" />
+        <ad_num classify="tools" extra="2" main="3" />
+	</updateinfo>
+</giftconfig>
